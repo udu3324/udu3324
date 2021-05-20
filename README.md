@@ -1,4 +1,3 @@
-## hi
 <p align="center">
 <img src="https://i.imgur.com/P5jaMcM.jpg" width="150">
 </p>
