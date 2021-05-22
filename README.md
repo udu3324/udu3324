@@ -7,7 +7,7 @@
 <p align="center">
 	  <img src="https://img.shields.io/badge/languages-java%20and%20html-blue">
 	  <img src="https://img.shields.io/badge/sleep-failed-red">
-	  <img src="https://img.shields.io/badge/code-okay-yellow">
+	  <img src="https://img.shields.io/badge/code-bad-yellow">
 </p>
 <p align="center">
   <a href="http://forthebadge.com/"><img src="https://forthebadge.com/images/badges/0-percent-optimized.svg"/></a>
