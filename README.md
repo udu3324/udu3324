@@ -1,5 +1,5 @@
 # i am udu3324, a cloud in the sky
-Hi! You just stumbled upon my GitHub profile! Java is pretty much the language I chose and grew up with. I love it.
+Hi! You just stumbled upon my GitHub profile! Java is pretty much the language I chose and grew up with. Look at my repos to see cool things!
 
 ![Java](https://img.shields.io/badge/-Java-gray?style=for-the-badge&logo=java)
 ![HTML5](https://img.shields.io/badge/-HTML5-gray?style=for-the-badge&logo=html5)
