@@ -11,4 +11,3 @@ Favorite IDEs:
 
 <img src="https://img.shields.io/badge/-IntelliJ-0d0d0d?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/-VsCode-0d0d0d?style=for-the-badge&logo=Visual-Studio-Code&logoColor=0083D0" />
-<img src="https://img.shields.io/badge/-JetBrains IDE-0d0d0d?style=for-the-badge&logo=Jetbrains" />
