@@ -1,4 +1,4 @@
-# i am udu3324, a cloud in the sky
+# i am udu3324, a not loading jpeg
 Hey! Check out my pinned repositories as they are very cool. 
 
 Favorite Languages:
