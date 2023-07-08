@@ -1,6 +1,4 @@
-# I am udu3324, a not loading jpeg.
-
-Hey! Check out my pinned repositories as they are very cool.
+Hey! Check out my pinned repositories as they're pretty cool.
 
 **[PNGskin](https://github.com/udu3324/PNGskin)**       
 PNGskin is a website that simplifies the process of turning a image into a minecraft skin. It is super mobile friendly. Try it out [here](https://png-skin.vercel.app/).
