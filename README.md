@@ -2,7 +2,7 @@ Hey! Check out my pinned repositories as they're pretty cool.
 
 **[PNGskin](https://github.com/udu3324/PNGskin)**       
 PNGskin is a website that simplifies the process of turning a image into a minecraft skin. It is super mobile friendly. Try it out [here](https://png-skin.vercel.app/).
-![img](https://media.discordapp.net/attachments/919010462476152832/1023266791184683101/unknown.png)
+![img](https://raw.githubusercontent.com/udu3324/PNGskin/master/src/img/img.png)
 
 
 Favorite Languages:    
