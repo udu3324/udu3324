@@ -1,9 +1,8 @@
 Hey! Check out my pinned repositories as they're pretty cool.
 
-**[PNGskin](https://github.com/udu3324/PNGskin)**       
-PNGskin is a website that simplifies the process of turning a image into a minecraft skin. It is super mobile friendly. Try it out [here](https://png-skin.vercel.app/).
-![img](https://raw.githubusercontent.com/udu3324/PNGskin/master/src/img/img.png)
-
+**[mp3mark](https://github.com/udu3324/mp3mark)**       
+mp3mark is a website that lets you annotate and markup audio. Try it out [here](https://mp3mark.vercel.app/).
+![img](https://raw.githubusercontent.com/udu3324/mp3mark/refs/heads/main/src/lib/assets/showcase.png)
 
 Favorite Languages:    
 
@@ -13,8 +12,8 @@ Favorite Languages:
 
 Favorite IDEs:    
 
-<img  src="https://img.shields.io/badge/-IntelliJ-0d0d0d?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=ffffff" />
-<img  src="https://img.shields.io/badge/-VsCode-0d0d0d?style=for-the-badge&logo=Visual-Studio-Code&logoColor=0083D0" />
+![Intellij IDEA](https://img.shields.io/badge/-IntelliJ-0d0d0d?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=ffffff)
+![VSCode](https://img.shields.io/badge/-VsCode-0d0d0d?style=for-the-badge&logo=Visual-Studio-Code&logoColor=0083D0)
 
 [![GitHub stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=udu3324&theme=gotham)](https://github.com/udu3324/github-readme-stats)
 [![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=udu3324&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
