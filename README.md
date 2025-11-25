@@ -1,9 +1,5 @@
 Hey! Check out my pinned repositories as they're pretty cool.
 
-**[mp3mark](https://github.com/udu3324/mp3mark)**       
-mp3mark is a website that lets you annotate and markup audio. Try it out [here](https://mp3mark.vercel.app/).
-![img](https://raw.githubusercontent.com/udu3324/mp3mark/refs/heads/main/src/lib/assets/showcase.png)
-
 Favorite Languages:    
 
 ![Java](https://img.shields.io/badge/-Java-gray?style=for-the-badge&logo=java)
